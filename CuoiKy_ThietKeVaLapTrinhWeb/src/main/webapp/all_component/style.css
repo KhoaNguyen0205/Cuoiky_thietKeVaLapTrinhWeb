@@ -1,0 +1,32 @@
+.bg-custom {
+	background-color: #ff8080;
+}
+
+
+.navbar .nav-item:hover .nav-link {
+	background-color: white;
+	color: #303f9f;
+	border-radius: 15px;  
+}
+
+a.button{
+ display: inline-block;
+ padding: 20px 40px;
+ background-color:white;
+ text-decoration: none;
+ border-radius: 20px;
+}
+a.button.FCBayernMunchen{
+	background: #ffb3b3;
+}
+
+a.button.FCBayernMunchen:hover{
+background-color:#ff6666;
+}
+
+a.button.RBLeipzig {
+	background-color: #d9d9d9;
+}
+a.button.RBLeipzig:hover {
+	background-color: #f2f2f2;
+}
